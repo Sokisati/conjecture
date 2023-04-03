@@ -6,7 +6,7 @@ int main()
 {
     int x,peak;
     cout<<"sayi gir"<<endl;
-    //some comment
+    //some comment dudeee
     cin>>x;
     peak = x;
 
