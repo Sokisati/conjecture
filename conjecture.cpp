@@ -9,6 +9,7 @@ int main()
     //some comment
     cin>>x;
     peak = x;
+    //whaddup
 
    while(x>1)
    {
